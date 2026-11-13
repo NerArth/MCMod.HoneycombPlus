@@ -1,0 +1,11 @@
+; paint.net Palette File
+; Palette Name: HoneycombPlus Generated Ramp (#E89624)
+; Colors: 8
+FF783410
+FFB25713
+FFD97714
+FFE89624
+FFF2B33E
+FFF9CE5F
+FFFDE58E
+FFFFF6C5

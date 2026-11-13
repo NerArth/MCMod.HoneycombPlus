@@ -1,0 +1,24 @@
+{
+  "name": "HoneycombPlus Active Palette",
+  "description": "Shared semantic palette read by scripts/generate_assets.ps1 and exported by scripts/generate_palette.ps1.",
+  "colors": {
+    "Darkest":          { "hex": "#9E4E0C", "alpha": 255, "role": "Deep amber border, mortar lines, and recessed shadow" },
+    "Dark":             { "hex": "#C16711", "alpha": 255, "role": "Rich amber secondary shadow and bevel edge" },
+    "MidDark":          { "hex": "#D87F19", "alpha": 255, "role": "Warm honey-orange lower midtone for wax grain" },
+    "Mid":              { "hex": "#E89624", "alpha": 255, "role": "Base honeycomb gold primary surface fill" },
+    "MidLight":         { "hex": "#F5B238", "alpha": 255, "role": "Bright honey gold upper midtone and inner bevel" },
+    "Light":            { "hex": "#FCCC58", "alpha": 255, "role": "Top/left lit wax bevel highlight" },
+    "Bright":           { "hex": "#FFE58A", "alpha": 255, "role": "Specular wax highlight and outer lamp/lantern glow" },
+    "GlowCore":         { "hex": "#FFF8C4", "alpha": 255, "role": "Incandescent light core for lantern and lit lamp" },
+    "IronDark":         { "hex": "#3E3630", "alpha": 255, "role": "Warm dark bronze-iron housing for lantern and lamp frame" },
+    "IronMid":          { "hex": "#5C4F44", "alpha": 255, "role": "Warm mid bronze-iron for lantern cap and chain" },
+    "IronLight":        { "hex": "#7C6C5C", "alpha": 255, "role": "Warm bronze-iron metallic highlight" },
+    "Redstone":         { "hex": "#DC2D19", "alpha": 255, "role": "Powered redstone indicator on Honeycomb Lamp" },
+    "GlassBorderLight": { "hex": "#F5B238", "alpha": 225, "role": "Honeyed Glass top/left translucent border (alpha 225)" },
+    "GlassBorderDark":  { "hex": "#C16711", "alpha": 225, "role": "Honeyed Glass bottom/right translucent border (alpha 225)" },
+    "GlassStreak":      { "hex": "#FFE58A", "alpha": 150, "role": "Honeyed Glass diagonal specular streak (alpha 150)" },
+    "GlassGridDot":     { "hex": "#E89624", "alpha": 125, "role": "Honeyed Glass subtle cell dot (alpha 125)" },
+    "GlassFill":        { "hex": "#F5AA2D", "alpha": 85,  "role": "Honeyed Glass interior translucent fill (alpha 85)" },
+    "GlassPaneEdge":    { "hex": "#E89624", "alpha": 200, "role": "Honeyed Glass Pane top/bottom rim (alpha 200)" }
+  }
+}
