@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "nerarth.mods.honeycombplus.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "CopperGolemMixin",
+    "InventoryChangeTriggerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
