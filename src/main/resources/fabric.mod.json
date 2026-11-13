@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "honeycombplus",
+  "version": "${version}",
+  "name": "Honeycomb Plus",
+  "description": "A Fabric mod template.",
+  "authors": ["NerArth"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["nerarth.mods.honeycombplus.HoneycombPlus"],
+    "client": ["nerarth.mods.honeycombplus.HoneycombPlusClient"]
+  },
+  "mixins": [
+    "honeycombplus.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
