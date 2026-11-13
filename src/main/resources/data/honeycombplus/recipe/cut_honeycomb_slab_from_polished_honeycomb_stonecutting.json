@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "honeycombplus:polished_honeycomb",
+  "result": {
+    "count": 2,
+    "id": "honeycombplus:cut_honeycomb_slab"
+  }
+}

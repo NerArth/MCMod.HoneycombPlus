@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "honeycombplus:honeycomb_wall",
+    "honeycombplus:polished_honeycomb_wall",
+    "honeycombplus:cut_honeycomb_wall",
+    "honeycombplus:honeycomb_brick_wall"
+  ]
+}

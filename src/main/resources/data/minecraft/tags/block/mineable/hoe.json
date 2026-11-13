@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "honeycombplus:honeycomb_stairs",
+    "honeycombplus:honeycomb_slab",
+    "honeycombplus:honeycomb_wall",
+    "honeycombplus:polished_honeycomb",
+    "honeycombplus:polished_honeycomb_stairs",
+    "honeycombplus:polished_honeycomb_slab",
+    "honeycombplus:polished_honeycomb_wall",
+    "honeycombplus:cut_honeycomb",
+    "honeycombplus:cut_honeycomb_stairs",
+    "honeycombplus:cut_honeycomb_slab",
+    "honeycombplus:cut_honeycomb_wall",
+    "honeycombplus:honeycomb_bricks",
+    "honeycombplus:honeycomb_brick_stairs",
+    "honeycombplus:honeycomb_brick_slab",
+    "honeycombplus:honeycomb_brick_wall",
+    "honeycombplus:chiseled_honeycomb",
+    "honeycombplus:honeycomb_pillar",
+    "honeycombplus:honeycomb_grate",
+    "honeycombplus:honeycomb_bars",
+    "honeycombplus:honeycomb_door",
+    "honeycombplus:honeycomb_trapdoor",
+    "honeycombplus:honeyed_glass",
+    "honeycombplus:honeyed_glass_pane",
+    "honeycombplus:honeycomb_lamp"
+  ]
+}

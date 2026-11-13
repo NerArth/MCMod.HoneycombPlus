@@ -1,0 +1,8 @@
+{
+  "entries": [
+    { "item": "minecraft:honeycomb_block" },
+    { "item": "honeycombplus:honeycomb_stairs" },
+    { "item": "honeycombplus:honeycomb_slab" },
+    { "item": "honeycombplus:honeycomb_wall" }
+  ]
+}

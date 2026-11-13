@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "honeycombplus:honeycomb_door",
+    "honeycombplus:honeycomb_trapdoor"
+  ]
+}

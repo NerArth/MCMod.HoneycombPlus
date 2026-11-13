@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "S": "minecraft:string",
+    "W": "honeycombplus:wax"
+  },
+  "pattern": [
+    "S",
+    "W"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:candle"
+  }
+}

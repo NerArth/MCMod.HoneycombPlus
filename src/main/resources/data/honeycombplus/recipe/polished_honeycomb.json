@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "honeycombplus:wax",
+    "#minecraft:planks"
+  ],
+  "result": {
+    "count": 1,
+    "id": "honeycombplus:polished_honeycomb"
+  }
+}

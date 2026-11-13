@@ -1,0 +1,10 @@
+{
+  "entries": [
+    { "item": "honeycombplus:polished_honeycomb" },
+    { "item": "honeycombplus:cut_honeycomb" },
+    { "item": "honeycombplus:honeycomb_bricks" },
+    { "item": "honeycombplus:chiseled_honeycomb" },
+    { "item": "honeycombplus:honeycomb_pillar" },
+    { "item": "honeycombplus:honeycomb_grate" }
+  ]
+}

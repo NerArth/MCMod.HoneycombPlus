@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "honeycombplus:cut_honeycomb",
+  "result": {
+    "count": 2,
+    "id": "honeycombplus:honeycomb_brick_slab"
+  }
+}

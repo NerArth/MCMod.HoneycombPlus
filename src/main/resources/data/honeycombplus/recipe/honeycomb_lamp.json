@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "G": "minecraft:glowstone_dust",
+    "H": "honeycombplus:polished_honeycomb",
+    "N": "minecraft:gold_nugget",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    "NHN",
+    "HGH",
+    "NRN"
+  ],
+  "result": {
+    "count": 4,
+    "id": "honeycombplus:honeycomb_lamp"
+  }
+}
