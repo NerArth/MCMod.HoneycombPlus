@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "honeycombplus:block/honeycomb_lamp_lit_powered"
+  }
+}

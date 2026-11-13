@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "honeycombplus:block/cut_honeycomb",
+    "side": "honeycombplus:block/cut_honeycomb",
+    "top": "honeycombplus:block/cut_honeycomb"
+  }
+}

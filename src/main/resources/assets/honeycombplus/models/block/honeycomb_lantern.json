@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_lantern",
+  "textures": {
+    "lantern": "honeycombplus:block/honeycomb_lantern"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "hanging=false": { "model": "honeycombplus:block/honeycomb_lantern" },
+    "hanging=true": { "model": "honeycombplus:block/honeycomb_lantern_hanging" }
+  }
+}

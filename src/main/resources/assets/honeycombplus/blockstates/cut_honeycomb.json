@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "honeycombplus:block/cut_honeycomb"
+    }
+  }
+}

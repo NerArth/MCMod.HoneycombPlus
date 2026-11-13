@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "lit=false,powered=false": { "model": "honeycombplus:block/honeycomb_lamp" },
+    "lit=false,powered=true": { "model": "honeycombplus:block/honeycomb_lamp_powered" },
+    "lit=true,powered=false": { "model": "honeycombplus:block/honeycomb_lamp_lit" },
+    "lit=true,powered=true": { "model": "honeycombplus:block/honeycomb_lamp_lit_powered" }
+  }
+}

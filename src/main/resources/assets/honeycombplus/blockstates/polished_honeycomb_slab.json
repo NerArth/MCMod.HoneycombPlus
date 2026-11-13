@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "honeycombplus:block/polished_honeycomb_slab" },
+    "type=double": { "model": "honeycombplus:block/polished_honeycomb" },
+    "type=top": { "model": "honeycombplus:block/polished_honeycomb_slab_top" }
+  }
+}

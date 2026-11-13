@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_bars_post",
+  "textures": {
+    "bars": "honeycombplus:block/honeycomb_bars",
+    "edge": "honeycombplus:block/honeycomb_bars"
+  }
+}

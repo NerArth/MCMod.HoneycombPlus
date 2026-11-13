@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "honeycombplus:block/honeycomb_bricks",
+    "side": "honeycombplus:block/honeycomb_bricks",
+    "top": "honeycombplus:block/honeycomb_bricks"
+  }
+}

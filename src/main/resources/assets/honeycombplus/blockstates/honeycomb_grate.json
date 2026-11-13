@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "honeycombplus:block/honeycomb_grate"
+    }
+  }
+}
